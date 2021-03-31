@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<b>I'm Jainik, Sr. Software Engineer - Python, JavaScript :zap:</b>
+<b>I'm Jainik, Odoo Full Stack Developer :zap:</b>
 
 <ul>
   <li>More than six years of experience in working with front-end technologies and frameworks such as Bootstrap, Javascript, jQuery, and Backbone.js.</li>
